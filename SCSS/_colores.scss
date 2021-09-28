@@ -1,0 +1,60 @@
+/******************
+ESTILOS DE PALETAS DE COLORES
+*******************************/
+@import "variable";
+
+div{
+    h3{
+        color: $fuenteRojo;
+    }
+}
+
+.titulo{
+    color: rgb(141, 141, 141);
+    background-color: rgba(235, 235, 235, 0.986);
+}
+
+.titulo2 {
+    color: $fuenteRojo;
+}
+ 
+ 
+
+.parrafos{
+    color:rgb(71, 71, 73);
+}
+
+.tipoDeFuente {
+    color: $fuenteRojo;
+}
+
+.ubicaciones {    
+    background-color: rgba(255, 255, 255, 0.835);
+}
+
+.ubicaciones td{
+    border:rgb(3, 3, 3) 1px solid
+}
+
+.ubicaciones th{
+    border:rgb(3, 3, 3) 1px solid;
+}
+
+.parrafosInformes{
+    color:rgb(71, 71, 73);
+}
+
+.frase{
+    color: rgb(228, 50, 50);
+}
+
+p i{
+    color: white;
+}
+
+.btn-solid-reg {
+	border: 1px solid #dc3545;
+	background-color: #dc3545;
+	color: #ffffff;
+}
+
