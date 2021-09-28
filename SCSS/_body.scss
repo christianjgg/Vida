@@ -159,29 +159,8 @@ tr, td {
     
 }
 
-// BUCLE PARA POLAROID
-@for $polaroid from 3 through 4 {
-    .pol-#{$polaroid} { width:  7% * $polaroid; }
-  }
-  
-  @for $polaroid from 1 through 2 {
-    .pol-#{$polaroid} { width:  15% * $polaroid; }
-  }
-  
-//MAPS
-/*Nuestro mapa*/
-$iconos: ( 
-        casa: #fffc41,
-        sobre:  #f042e1,
-        celu: #50e70a
-); 
-/*Bucle para usar los valores del mapa*/
-@each $red, $color in $iconos {
-   .btn--#{$red} {
-       color: $color;
-   }
-}
 
+  
 .py-5{
     margin-top: 0;
 }
@@ -244,3 +223,4 @@ $iconos: (
 	text-decoration: none;
 	transition: all 0.2s;
 }
+

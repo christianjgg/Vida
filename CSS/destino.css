@@ -192,29 +192,6 @@ p {
 .parrafosInformesNuevo {
   font-weight: bolder; }
 
-.pol-3 {
-  width: 21%; }
-
-.pol-4 {
-  width: 28%; }
-
-.pol-1 {
-  width: 15%; }
-
-.pol-2 {
-  width: 30%; }
-
-/*Nuestro mapa*/
-/*Bucle para usar los valores del mapa*/
-.btn--casa {
-  color: #fffc41; }
-
-.btn--sobre {
-  color: #f042e1; }
-
-.btn--celu {
-  color: #50e70a; }
-
 .py-5 {
   margin-top: 0; }
 
