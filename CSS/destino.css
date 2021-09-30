@@ -21,7 +21,8 @@ div h3 {
   color: #fa1717; }
 
 .ubicaciones {
-  background-color: rgba(255, 255, 255, 0.835); }
+  background-color: rgba(255, 255, 255, 0.835);
+ }
 
 .ubicaciones td {
   border: #030303 1px solid; }
