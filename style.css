@@ -7,7 +7,7 @@
 }
 
 /* Index Page */
-body{
+/* body{
     display: flex;
     flex-direction: column;
     height: 100%;
@@ -96,42 +96,35 @@ table {
 
   
 footer{
-    margin-top: 30px;}
+    margin-top: 30px;} */
 
 
 /* Pagina Como Ayudar */
-    .videoAyudar{
+    /* .videoAyudar{
         display: flex;
         width: 100%;
             justify-content: center;
-        }
+        } */
         
 /* Pagina Historias */
-    .videoPaciente{
+    /* .videoPaciente{
         display: flex;
         justify-content: center;
         padding: 20px;
         }
-
-/* Pagina Contacto */
-    .formGoogle{
-        display: flex;
-        justify-content: center;
-        padding: 20px;
-        }
-
+ */
 
 /* Pagina de Informes */
 
-    .pruebaGrid{
+   /*  .pruebaGrid{
         display: grid;
         grid-template-columns: 340px 340px 500px;
         grid-template-rows: 180px 240px 50px ;
         margin:auto;
         margin-top: 20px;
         }
-
-    .pruebaGrid div{     
+ */
+    /* .pruebaGrid div{     
         text-align: center;
         margin: auto; 
         }
@@ -177,19 +170,19 @@ footer{
 
     #pol4{
         transform: rotate(-7deg);
-        }
+        } */
 
 /* Nosotros Page */
 
-.nosotrosJPG{
+/* .nosotrosJPG{
     display: flex;
     justify-content: center;
     margin-top: 20px;
-}
+} */
 
 /* media query */
-@media screen and (min-width: 1280px) {
+/* @media screen and (min-width: 1280px) {
     .r-footer > * {
         flex: 1;
             }
-        }   
+        }    */
